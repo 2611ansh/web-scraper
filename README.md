@@ -32,7 +32,7 @@ Before you begin, ensure you have met the following requirements:
 3. Install the required Python libraries using pip:
 
    ```bash
-   pip install Flask Flask-CORS requests BeautifulSoup4 pymongo
+   pip install -r requirements.txt
    ```
 
 4. Run the application:
