@@ -68,5 +68,3 @@ Replace `username`, `password`, and `cluster.mongodb.net` with your MongoDB cred
 - MongoDB is used as the database for storing scraped data.
 
 ---
-
-Feel free to customize this README as needed and add any additional information or instructions.
