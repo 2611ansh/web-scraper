@@ -61,10 +61,6 @@ client = pymongo.MongoClient("mongodb+srv://username:password@cluster.mongodb.ne
 
 Replace `username`, `password`, and `cluster.mongodb.net` with your MongoDB credentials.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - This project uses Flask, a micro web framework for Python.
